@@ -23,4 +23,6 @@ O Amazon S3 (<strong>Simple Storage Service</strong>) é responsável pela leitu
 
 ### Explicação
 O cliente manda um arquivo para o servidor, esse arquivo entra no S3, é processado pelo AWS Lambda, que se conecta ao DynamoDB que guarda os dados.
-(<strong></strong>)
+
+## Conclusão
+A AWS (<strong>Amazon Web Service</strong>) tem uma ampla gama de serviços com variáveis custos, que conta com valores gratuitos para certas faixas de uso, o que deixa mais acessível a plataforma para estudantes ou pessoas que estão tentando ingressar na área.
